@@ -25,7 +25,7 @@
 <h3 align="center">Let's Connect ☕</h3>
 <p align="center"> 
   <a href="https://www.linkedin.com/in/jerald-lashy-jeffery/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn"></a>
-  <a href="https://www.jeraldashy.github.io" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"  alt="My Website"></a>
+  <a href="https://www.jeraldlashy.github.io" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"  alt="My Website"></a>
   <a href="https://www.instagram.com/jeraldlashy" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://www.facebook.com/gerald.jeffrey.92" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%231877F2?style=for-the-badge&logo=gmail&logoColor=white" alt="Facebook"></a>
   <a href = "mailto:jeraldjeffreylashie@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
