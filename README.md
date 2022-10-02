@@ -1,4 +1,5 @@
-## Hi there 👋I'm Jerald Lashy Jeffery 💻
+# Hi there 👋 I'm Jerald Lashy Jeffery 💻
+✨ Software Developer
 
 - 🧑‍🎓 Bsc Management Information Systems (November 2022), ALX-Udacity Cloud Development Nanodegree.
 
