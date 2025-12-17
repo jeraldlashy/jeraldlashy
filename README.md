@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Jerald Lashy Jeffery  
-### 💻 Software Developer | Backend, Automation & AI Systems
+### 💻 Software Developer | Fullstack, Automation & AI Systems
 
 I am a Software Developer with a background in **Management Information Systems**, specializing in **backend engineering, automation, and AI-assisted systems**. I build scalable, cloud-native platforms with a strong focus on **real-world impact, reliability, and community empowerment**, particularly within emerging markets.
 
