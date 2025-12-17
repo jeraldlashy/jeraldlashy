@@ -13,7 +13,7 @@ My mission is to leverage technology to **improve access to digital solutions**,
 
 ## 🎓 Education & Certifications
 
-- **BSc Management Information Systems** — *November 2022*  
+- **BSc Management Information Systems**
 - **ALX–Udacity Cloud Development Nanodegree**
 - **OCJP Java SE 11**
 - **CCNA**
