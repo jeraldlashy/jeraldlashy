@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on LMS based on Nodejs
 
-- 🌱 I’m currently learning Java Struts 2 and Kafka
+- 🌱 I’m currently building various projects to change the community - machillz.com, magraft.com and many more to come. 
 
-- 👯 I’m looking to collaborate on Open Source Projects
+- 👯 I’m also looking to collaborate on Open Source Projects that has direct impact on on the society.
 
 - 🤔 I’m looking for help with setting up a panel of developers to teach live classed programming for free to people across Non-Tech People.
 
