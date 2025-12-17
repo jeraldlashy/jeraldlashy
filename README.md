@@ -78,7 +78,7 @@ My mission is to leverage technology to **improve access to digital solutions**,
 
 ## 🚀 Featured Public Projects
 
-### 🌍 Machillz  
+### 🌍 Machillz  (Pilot)
 **Community-driven discovery platform for places, events, and experiences**
 
 🔗 https://machillz.com  
@@ -86,7 +86,7 @@ A platform focused on showcasing local businesses, events, and experiences, star
 
 ---
 
-### 💼 Magraft  
+### 💼 Magraft  (In Progress)
 **Jobs, gigs, and opportunities platform**
 
 🔗 https://magraft.com  
